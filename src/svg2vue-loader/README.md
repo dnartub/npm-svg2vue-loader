@@ -1,4 +1,4 @@
-Convert vsvg-source to Vue-component on importing
+Node-module for convertion svg-source to Vue-component on importing
 
 #### Usage
 

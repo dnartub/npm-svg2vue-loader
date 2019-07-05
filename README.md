@@ -1,5 +1,5 @@
 # nmp-svg2vue-loader
-Convert svg-source to Vue-component on importing
+Node-module for convertion svg-source to Vue-component on importing
 
 
 #### Usage
